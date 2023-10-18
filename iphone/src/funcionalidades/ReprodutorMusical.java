@@ -1,4 +1,4 @@
 package funcionalidades;
 
-public class ReprodutorMusical {
+public interface ReprodutorMusical {
 }
